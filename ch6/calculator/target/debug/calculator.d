@@ -1,0 +1,1 @@
+/home/paf/code/rust-learning/rust-in-action/code/ch6/calculator/target/debug/calculator: /home/paf/code/rust-learning/rust-in-action/code/ch6/calculator/src/input.rs /home/paf/code/rust-learning/rust-in-action/code/ch6/calculator/src/main.rs /home/paf/code/rust-learning/rust-in-action/code/ch6/calculator/src/math.rs

@@ -39,3 +39,16 @@ I'm also active on [Reddit](https://www.reddit.com/user/timClicks), [LinkedIn](h
 [Book Depository]: https://www.bookdepository.com/Rust-Action-Ts-McNamara/9781617294556
 [indiebound]: http://www.indiebound.org/book/9781617294556
 [Rust in Action]: https://www.manning.com/books/rust-in-action?a_aid=rust&a_bid=0367c58f&chan=source_code
+
+# Additional Read Me info (phil)
+
+My run through of Rust In Action.
+Decided to start putting it up on github.
+A little late in my run through. Already on Chapter 7.
+I started practing with some side projects along the way. I wanted to get those versioned because I found myself adding to them/editing them as I continue to learn. I think it would be nice for review purposes to see earlier versions.
+
+## Review So Far
+
+I am loving this book. It has been a great read with interesting examples. I would recommend this to anyone looking to learn Rust.
+
+

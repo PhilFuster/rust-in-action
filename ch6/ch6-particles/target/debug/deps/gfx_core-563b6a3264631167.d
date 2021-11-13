@@ -1,0 +1,16 @@
+/home/paf/code/rust-learning/rust-in-action/code/ch6/ch6-particles/target/debug/deps/gfx_core-563b6a3264631167.rmeta: /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/lib.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/buffer.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/command.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/dummy.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/factory.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/format.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/handle.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/mapping.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/memory.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/pso.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/shade.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/texture.rs
+
+/home/paf/code/rust-learning/rust-in-action/code/ch6/ch6-particles/target/debug/deps/gfx_core-563b6a3264631167.d: /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/lib.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/buffer.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/command.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/dummy.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/factory.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/format.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/handle.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/mapping.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/memory.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/pso.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/shade.rs /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/texture.rs
+
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/lib.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/buffer.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/command.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/dummy.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/factory.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/format.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/handle.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/mapping.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/memory.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/pso.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/shade.rs:
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.9.2/src/texture.rs:

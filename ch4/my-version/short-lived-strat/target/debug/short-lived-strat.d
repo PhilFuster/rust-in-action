@@ -1,0 +1,1 @@
+/home/paf/code/rust-learning/rust-in-action/code/ch4/my-version/short-lived-strat/target/debug/short-lived-strat: /home/paf/code/rust-learning/rust-in-action/code/ch4/my-version/short-lived-strat/src/main.rs

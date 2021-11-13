@@ -1,0 +1,7 @@
+/home/paf/code/rust-learning/rust-in-action/code/ch6/ch6-particles/target/debug/deps/scoped_threadpool-429c69c6d0f9a71e.rmeta: /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/scoped_threadpool-0.1.9/src/lib.rs
+
+/home/paf/code/rust-learning/rust-in-action/code/ch6/ch6-particles/target/debug/deps/libscoped_threadpool-429c69c6d0f9a71e.rlib: /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/scoped_threadpool-0.1.9/src/lib.rs
+
+/home/paf/code/rust-learning/rust-in-action/code/ch6/ch6-particles/target/debug/deps/scoped_threadpool-429c69c6d0f9a71e.d: /home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/scoped_threadpool-0.1.9/src/lib.rs
+
+/home/paf/.cargo/registry/src/github.com-1ecc6299db9ec823/scoped_threadpool-0.1.9/src/lib.rs:
