@@ -1,15 +1,22 @@
-use std::fs::File;
+use std::fs::OpenOptions;
 use std::io::prelude::*;
 use std::env;
+use std::path::PathBuf;
 
 const BYTES_PER_LINE: usize = 16;
 
 #[allow(dead_code)]
-fn main() {
+fn main() -> std::io::Result<()>{
   let arg1 = env::args().nth(1);
 
   let fname = arg1.expect("usage: fview FILENAME");
-  let mut f = File::open(&fname).expect("Unable to open file.");
+  let fname = PathBuf::from(fname);
+  let mut f = OpenOptions::new()
+          .read(true)
+          .write(true)
+          .append(true)
+          .create(true)
+          .open(&fname)?;
   let mut pos = 0;
   let mut buffer = [0; BYTES_PER_LINE];
 
@@ -25,4 +32,5 @@ fn main() {
     println!("");
     pos += BYTES_PER_LINE;
   }
+  Ok(())
 }
